@@ -34,5 +34,5 @@ Um simples conversor de moedas em Java, via console, que utiliza a ExchangeRate-
 4. Você terá a opção de continuar fazendo conversões ou sair do programa.
 
 ## Exemplo de Uso
-![Programa de Conversão de Moedas](URL_da_Imagem)
+![Programa de Conversão de Moedas](https://github.com/souzarayane/conversorDeMoedaAPI/blob/main/ConversorDeMoedas.png)
 
